@@ -35,8 +35,10 @@ computed:{
 },
 mounted(){
     this.$store.dispatch('home/getFloorList')
+
 }，
 //123
+
 }
 </script>
 
